@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drips", "Drips\Drips.csproj", "{14E513A3-9FB7-4C05-B569-9DBD5B998812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WholeGlasses", "WholeGlasses\WholeGlasses.csproj", "{C911B119-D460-4494-881B-BB889A69F21E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14E513A3-9FB7-4C05-B569-9DBD5B998812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E513A3-9FB7-4C05-B569-9DBD5B998812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E513A3-9FB7-4C05-B569-9DBD5B998812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E513A3-9FB7-4C05-B569-9DBD5B998812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C911B119-D460-4494-881B-BB889A69F21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C911B119-D460-4494-881B-BB889A69F21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C911B119-D460-4494-881B-BB889A69F21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C911B119-D460-4494-881B-BB889A69F21E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC977618-C830-4F2C-8AA2-E892EF03F024}
+	EndGlobalSection
+EndGlobal
