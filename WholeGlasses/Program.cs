@@ -13,7 +13,7 @@ namespace WholeGlasses
             Console.WriteLine("How often do you hear a drip drop?: ");
             string n = Console.ReadLine();
 
-
+            int i = 0;
             int a = Convert.ToInt32(n);
 
             double hour = (3600 / a) * 0.00025;
